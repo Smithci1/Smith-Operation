@@ -1,0 +1,27 @@
+.logo{
+    font-family: Cast Iron;
+    font-size: 100px;
+    color:  ivory;
+    
+    background-color: dimgrey;
+
+}
+.about {
+    color: ivoryd;
+    font-family: Cast Iron;
+    font-size: 60px;
+    align-content: flex-end;
+    background-color: dimgrey;
+
+}
+a:hover{
+    animation-delay: 5s;
+    color:red;
+}
+a{
+    color:ivory;
+}
+body {
+    background-color: slategrey;
+
+}
